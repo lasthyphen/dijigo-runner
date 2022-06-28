@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/lasthyphen/dijigo v0.2.0
 	github.com/lasthyphen/dijetsgo-operator latest
-	github.com/lasthyphen/coreth v1.2.0
+	github.com/lasthyphen/coreth v1.0.2
 	github.com/ethereum/go-ethereum v1.10.16
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 	github.com/onsi/ginkgo/v2 v2.1.0

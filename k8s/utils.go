@@ -9,7 +9,7 @@ import (
 
 	"github.com/lasthyphen/dijigo-runner/network/node"
 	"github.com/lasthyphen/dijigo-runner/utils"
-	k8sapi "github.com/lasthyphen/dijigo-operator/api/v1alpha1"
+	k8sapi "github.com/lasthyphen/dijetsgo-operator/api/v1alpha1"
 	"github.com/lasthyphen/dijigo/config"
 	"github.com/lasthyphen/dijigo/utils/logging"
 	corev1 "k8s.io/api/core/v1"

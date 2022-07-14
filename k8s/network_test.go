@@ -19,7 +19,7 @@ import (
 	"github.com/lasthyphen/dijigo/utils/constants"
 	"github.com/lasthyphen/dijigo/utils/logging"
 
-	k8sapi "github.com/lasthyphen/dijigo-operator/api/v1alpha1"
+	k8sapi "github.com/lasthyphen/dijetsgo-operator/api/v1alpha1"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

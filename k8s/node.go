@@ -3,7 +3,7 @@ package k8s
 import (
 	"github.com/lasthyphen/dijigo-runner/api"
 	"github.com/lasthyphen/dijigo-runner/network/node"
-	k8sapi "github.com/lasthyphen/dijigo-operator/api/v1alpha1"
+	k8sapi "github.com/lasthyphen/dijetsgo-operator/api/v1alpha1"
 	"github.com/lasthyphen/dijigo/ids"
 )
 

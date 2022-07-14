@@ -16,7 +16,7 @@ import (
 	"github.com/lasthyphen/dijigo/utils/logging"
 	"golang.org/x/sync/errgroup"
 
-	k8sapi "github.com/lasthyphen/dijigo-operator/api/v1alpha1"
+	k8sapi "github.com/lasthyphen/dijetsgo-operator/api/v1alpha1"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/types"
 	ctrl "sigs.k8s.io/controller-runtime"
